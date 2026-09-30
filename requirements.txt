@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+arxiv
+openai
+typesafe-sdk
+python-dotenv
